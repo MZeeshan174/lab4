@@ -1,2 +1,4 @@
 int a = 3 , b = 5;
 Console.WriteLine("sum : " + {a+b});
+int c = 9 , d = 6;
+Console.WriteLine("subtraction : " + {c - d});
